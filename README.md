@@ -1,6 +1,6 @@
 # Furrget releases
 
-_Furrget me not!_ Furrget by Klora records a meeting and writes the minutes, where every point traces back to what was
+_Furrget me not!_ Furrget records a meeting and writes the minutes, where every point traces back to what was
 said.
 
 ## Download the newest build
@@ -9,21 +9,20 @@ said.
 
 | Computer | Download |
 | --- | --- |
-| Mac with Apple silicon, macOS 14.2 or later | [Furrget for Mac (.dmg, 292 MB)](https://github.com/kloralabs/furrget-releases/releases/download/v0.3.0-preview.24/Furrget-0.3.0-preview.24-mac-arm64.dmg) |
+| Mac with Apple silicon, macOS 14.2 or later | [Furrget for Mac (.dmg, 292 MB)](https://github.com/furrgetlabs/furrget-releases/releases/download/v0.3.0-preview.24/Furrget-0.3.0-preview.24-mac-arm64.dmg) |
 
 The Windows build follows in a later preview.
 
-What changed and known issues: [release notes](https://github.com/kloralabs/furrget-releases/releases/tag/v0.3.0-preview.24).
+What changed and known issues: [release notes](https://github.com/furrgetlabs/furrget-releases/releases/tag/v0.3.0-preview.24).
 
 ## Opening it the first time
 
-- **Mac:** open the `.dmg` and drag Furrget to Applications. The build is not notarized yet, so the first time you open
-  it, go to System Settings → Privacy & Security and click **Open Anyway**.
+- **Mac:** open the `.dmg` and drag Furrget to Applications. The app is signed and notarized by Apple, so it opens
+  like any other app.
 - **Windows:** the installer is not signed yet. When SmartScreen warns you, click **More info** → **Run anyway**.
 
 ## Older builds
 
-All builds are on the [releases page](https://github.com/kloralabs/furrget-releases/releases). `v0.1.0` (marked
-Latest) is the previous Mac-only app; it checks this repo's `furrget-appcast.xml` for its updates.
+All builds are on the [releases page](https://github.com/furrgetlabs/furrget-releases/releases).
 
-Source code is private. Releases are published from `kloralabs/furrget`.
+Source code is private. Guide: [furrget.app/docs](https://furrget.app/docs/). Support: support@furrget.app.
