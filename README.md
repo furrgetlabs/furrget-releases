@@ -5,15 +5,15 @@ said.
 
 ## Download the newest build
 
-**Furrget 0.4.0 preview 3 (2026-10-21)**: a test build of the new app for Mac.
+**Furrget 0.4.0 preview 4 (2026-10-22)**: a test build of the new app for Mac.
 
 | Computer | Download |
 | --- | --- |
-| Mac with Apple silicon, macOS 14.2 or later | [Furrget for Mac (.dmg, 293 MB)](https://github.com/furrgetlabs/furrget-releases/releases/download/v0.4.0-preview.3/Furrget-0.4.0-preview.3-mac-arm64.dmg) |
+| Mac with Apple silicon, macOS 14.2 or later | [Furrget for Mac (.dmg, 293 MB)](https://github.com/furrgetlabs/furrget-releases/releases/download/v0.4.0-preview.4/Furrget-0.4.0-preview.4-mac-arm64.dmg) |
 
 The Windows build follows in a later preview.
 
-What changed and known issues: [release notes](https://github.com/furrgetlabs/furrget-releases/releases/tag/v0.4.0-preview.3).
+What changed and known issues: [release notes](https://github.com/furrgetlabs/furrget-releases/releases/tag/v0.4.0-preview.4).
 
 ## Opening it the first time
 
